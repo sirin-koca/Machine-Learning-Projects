@@ -44,7 +44,7 @@ The script will load the Iris dataset, split it into training and testing sets, 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Acknowledgments
+#### Acknowledgments
 1. The Iris dataset is taken from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
 2. This project is inspired by the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron.
 
