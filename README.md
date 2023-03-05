@@ -42,9 +42,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 1. The Iris dataset is taken from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
 2. This project is inspired by the book [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron.
 
-Feel free to modify and use this README file for your own projects. 
-
-Good luck!
+Feel free to modify and use this README file for your own projects. Good luck!
 
 Sirin Koca | OsloMet | 2023
 
