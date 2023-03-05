@@ -35,7 +35,7 @@ This is a simple machine learning project that predicts the type of flower based
 You can install the required libraries using pip: ```pip install scikit-learn numpy```
 
 ### Usage
-1. Clone the repository: git clone https://github.com/your-username/iris-classification.git
+1. Clone the repository: ```git clone``` or https://github.com/your-username/iris-classification.git
 2. Navigate to the project directory: ```cd iris-classification```
 3. Run the Python script: ```python iris_classification.py```
 
