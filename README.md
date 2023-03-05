@@ -2,7 +2,7 @@
 
 Machine learning (ML) is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
 
-The first ML model was built by Arthur Samuel in 1959. He developed a program that played checkers and learned from its own experience using a technique called "machine learning." This was a significant breakthrough in the field of artificial intelligence and paved the way for the development of more complex machine learning models. Since then, numerous researchers and scientists have contributed to the development of machine learning and built many different models for a wide range of applications.
+The first ML model was built by Arthur Samuel in 1959. He developed a program that played checkers and learned from its own experience using a technique called "*machine learning*." This was a significant breakthrough in the field of artificial intelligence and paved the way for the development of more complex machine learning models. Since then, numerous researchers and scientists have contributed to the development of machine learning and built many different models for a wide range of applications.
 
 ## Fundamental concepts:
 
