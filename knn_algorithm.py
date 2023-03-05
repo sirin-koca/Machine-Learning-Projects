@@ -1,7 +1,11 @@
 import numpy as np
 
 """The Euclidean distance is a measure of the distance between two points in a multidimensional space, 
-and is commonly used in machine learning to compute the similarity between two data points."""
+and is commonly used in machine learning to compute the similarity between two data points.
+
+For example, if x1 = [1, 2, 3] and x2 = [4, 5, 6], the Euclidean distance between them would be:
+d(x1, x2) = sqrt((1 - 4)^2 + (2 - 5)^2 + (3 - 6)^2) = sqrt(27) = 5.196
+"""
 
 
 def euclidean_distance(x1, x2):
