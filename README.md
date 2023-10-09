@@ -1,5 +1,5 @@
 # Machine Learning, Data Analysis and Visualization with Python
-This repository contains demos for data analysis and visualization in Python using:
+This repository contains demos for machine learning, data analysis and visualization in Python using:
 
 - **numpy**
 - **pandas**
