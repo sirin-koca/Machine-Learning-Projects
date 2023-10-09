@@ -5,6 +5,7 @@ This repository contains demos for data analysis and visualization in Python usi
 - **pandas**
 - **matplotlib**
 - **seaborn**
+- **scikit-learn**
 
 **Machine learning** (ML) is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
 
