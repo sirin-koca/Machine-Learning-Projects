@@ -1,5 +1,5 @@
 # 100 days of Machine Learning
-I continue to work on ML projects, starting with basics to learn the fundamentals. 
+I continue to learn and work on ML projects, starting with basics to learn the fundamentals. 
 This repository contains demos for machine learning, data analysis and visualization in Python using:
 
 - **numpy**
@@ -10,11 +10,11 @@ This repository contains demos for machine learning, data analysis and visualiza
 - **TensorFlow**
 - **Keras**
 
-**Machine learning** (ML) is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
+**What is Machine learning?** (ML) is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
 
-The first ML model was built by Arthur Samuel in 1959. He developed a program that played checkers and learned from its own experience using a technique called "*machine learning*." This was a significant breakthrough in the field of artificial intelligence and paved the way for the development of more complex machine learning models. Since then, numerous researchers and scientists have contributed to the development of machine learning and built many different models for a wide range of applications.
+**History time!** The first ML model was built by Arthur Samuel in 1959. He developed a program that played checkers and learned from its own experience using a technique called "*machine learning*." This was a significant breakthrough in the field of artificial intelligence and paved the way for the development of more complex machine learning models. Since then, numerous researchers and scientists have contributed to the development of machine learning and built many different models for a wide range of applications.
 
-## Fundamental concepts:
+## Fundamental ML-concepts:
 
 1. Supervised Learning: Supervised learning is a type of machine learning in which the model is trained on a labeled dataset, where the target variable is known. The goal is to predict the target variable for new, unseen data.
 
@@ -35,7 +35,7 @@ The first ML model was built by Arthur Samuel in 1959. He developed a program th
 # Projects in this series:
 
 ## Project 1: Iris Flower Classification
-- *Description*: This is a classic beginner project where you classify iris flowers into three species (Setosa, Versicolor, and Virginica) based on the length and width of their sepals and petals.
+- *Description*: According to my reserach this is a classic beginner project where we classify iris flowers into three species (Setosa, Versicolor, and Virginica) based on the length and width of their sepals and petals.
 - *Learning Outcomes*: Understanding classification problems. Familiarity with basic algorithms like k-Nearest Neighbors (k-NN), Decision Trees, and Logistic Regression.
 - *Challenges*:
 - *Dataset*: Iris Dataset
@@ -64,6 +64,7 @@ The first ML model was built by Arthur Samuel in 1959. He developed a program th
 - *Tools*: TensorFlow, Keras, Pandas
 
 
+#LifeLongLearning :)
 Feel free to modify and use this README file for your own projects. 
 
 ---
