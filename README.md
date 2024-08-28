@@ -7,6 +7,8 @@ This repository contains demos for machine learning, data analysis and visualiza
 - **matplotlib**
 - **seaborn**
 - **scikit-learn**
+- **TensorFlow**
+- **Keras**
 
 **Machine learning** (ML) is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
 
