@@ -1,4 +1,5 @@
-# Machine Learning, Data Analysis and Visualization with Python
+# 100 days of Machine Learning
+I continue to work on ML projects, starting with basics to learn the fundamentals. 
 This repository contains demos for machine learning, data analysis and visualization in Python using:
 
 - **numpy**
