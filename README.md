@@ -64,8 +64,8 @@ This repository contains demos for machine learning, data analysis and visualiza
 - *Tools*: TensorFlow, Keras, Pandas
 
 
-#LifeLongLearning :)
-Feel free to modify and use this README file for your own projects. 
+#LifeLongLearning 
+
 
 ---
 
