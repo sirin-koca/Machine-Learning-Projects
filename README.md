@@ -30,7 +30,7 @@ The first ML model was built by Arthur Samuel in 1959. He developed a program th
 
 8. Model Evaluation: Model evaluation is the process of assessing the performance of a machine learning model on new, unseen data. Common evaluation metrics include accuracy, precision, recall, and F1 score.
 
-# Projects::100 Days of Machine Learning 
+# Projects in this series:
 
 ## Project 1: Iris Flower Classification
 - *Description*: This is a classic beginner project where you classify iris flowers into three species (Setosa, Versicolor, and Virginica) based on the length and width of their sepals and petals.
