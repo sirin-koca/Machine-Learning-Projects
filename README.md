@@ -30,31 +30,37 @@ The first ML model was built by Arthur Samuel in 1959. He developed a program th
 
 8. Model Evaluation: Model evaluation is the process of assessing the performance of a machine learning model on new, unseen data. Common evaluation metrics include accuracy, precision, recall, and F1 score.
 
-# Applications
+# Projects::100 Days of Machine Learning 
 
-## Project 1: Iris Flower Classification 
-This is a simple machine learning project that predicts the type of flower based on its features. The project uses the famous Iris dataset, which contains information about three types of flowers: Iris Setosa, Iris Versicolor, and Iris Virginica. Each flower has four features: sepal length, sepal width, petal length, and petal width.
+## Project 1: Iris Flower Classification
+- *Description*: This is a classic beginner project where you classify iris flowers into three species (Setosa, Versicolor, and Virginica) based on the length and width of their sepals and petals.
+- *Learning Outcomes*: Understanding classification problems. Familiarity with basic algorithms like k-Nearest Neighbors (k-NN), Decision Trees, and Logistic Regression.
+- *Challenges*:
+- *Dataset*: Iris Dataset
+- *Tools*: Scikit-learn, Pandas
 
-### Requirements
-- Python 3
-- Scikit-learn
-- NumPy
-### Installation
-You can install the required libraries using pip: ```pip install scikit-learn numpy```
+## Project 2: Titanic Survival Prediction
+- *Description*: This project involves predicting whether a passenger on the Titanic survived or not based on various features such as age, gender, ticket class, etc. The goal is to build a model that can accurately classify passengers into those who survived and those who did not.
+- *Learning Outcomes*: 
+  - Understanding binary classification problems.
+  - Hands-on experience with data preprocessing techniques such as handling missing values and feature engineering.
+  - Introduction to various classification algorithms like Logistic Regression, Random Forest, and Support Vector Machines (SVM).
+  - Model evaluation using metrics such as accuracy, precision, recall, and ROC-AUC.
+- *Challenges*:
+- *Dataset*: Public Titanic Dataset from Kaggle
+- *Tools*: Pandas, Scikit-learn, Matplotlib, Seaborn
 
-### Usage
-1. Clone the repository: ```git clone```
-2. Navigate to the project directory: ```cd iris-classification```
-3. Run the Python script: ```python iris_classification.py```
+## Project 3: Handwritten Digit Recognition (MNIST)
+- *Description*: This project focuses on building a model to recognize handwritten digits (0-9) from the MNIST dataset. The dataset consists of 28x28 pixel images of digits, and the task is to classify each image into the correct digit.
+- *Learning Outcomes*: 
+  - Working with image data.
+  - Introduction to Convolutional Neural Networks (CNNs) for image recognition tasks.
+  - Understanding the basics of deep learning and model training.
+  - Model evaluation using metrics such as accuracy and confusion matrices.
+- *Challenges*:
+- *Dataset*: MNIST Dataset
+- *Tools*: TensorFlow, Keras, Pandas
 
-The script will load the Iris dataset, split it into training and testing sets, choose a k-nearest neighbors classifier, train and evaluate the model, and then display the accuracy of the model on the test data.
-
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-#### Acknowledgments
-1. The Iris dataset is taken from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
-2. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron.
 
 Feel free to modify and use this README file for your own projects. 
 
